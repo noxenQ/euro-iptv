@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",13 Ulica (1080p)
+http://178.219.128.68:64888/13ULICHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",13 Ulica (1080p)
+http://109.233.89.166/13_Ulica_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://www.tvpolsat.info/wp-content/uploads/2023/03/2x2-logo.png" group-title="Undefined",2x2 (1080p)
+https://liveovh011.cda.pl/enc117/2x2hdraw/2x2hdraw.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",4 Fun Dance (576p)
+http://178.219.128.68:64888/4FUNDANC?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Kids",4 Fun Kids (576i) [[Not 24/7]]
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Kids",4 Fun Kids (576p)
+http://178.219.128.68:64888/4FUNKIDS?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",4 Fun TV (576p)
+http://178.219.128.68:64888/4FUNTV?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",AMC (1080p)
+http://178.219.128.68:64889/AMCHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",AMC (1080p)
+http://109.233.89.166/AMC_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AD;PL" tvg-logo="" group-title="Undefined",AXN (1080p)
+http://178.219.128.68:64888/AXN?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Active Family (1080p)
+http://178.219.128.68:64888/ACTIFAMIHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Active Family (1080p)
+http://178.219.128.68:64889/ACTIFAMIHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Active Family (1080p)
+http://109.233.89.166/Active_Family_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="News",Africanews
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/iZMsGnC.png" group-title="Movies",Ale Kino+ (1080p)
+http://178.219.128.68:64889/ALEKINOHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Alfa TVP (1080p)
+https://irylek.ct8.pl/stream/alfatvp?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Alfa TVP (1080p)
+http://109.233.89.166/Alfa_TVP_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Antena HD (1080p)
+https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",BBC Brit [Geo-blocked]
+http://178.219.128.68:64889/BBCBRITHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",BBC Earth (1080p)
+http://178.219.128.68:64888/BBCEARTHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",BBC Lifestyle (1080p)
+http://178.219.128.68:64888/BBCLIFEHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Belsat TV (1080p)
+https://irylek.ct8.pl/stream/belsat?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Bloomberg Originals
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Bloomberg TV+
+https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Boomerang (1080p)
+http://109.233.89.166/Boomerang_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",CANAL+ 360 (1080p)
+http://178.219.128.68:64889/CANAFAMIHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Canal+ Dokument (1080p)
+http://178.219.128.68:64889/CANADOKUHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/Iz2BxbR.png" group-title="Undefined",Canal+ Domo (1080p)
+http://178.219.128.68:64889/DOMOHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Canal+ Film (1080p)
+http://178.219.128.68:64889/CANAFILMHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Undefined",Canal+ Kuchnia (1080p)
+http://178.219.128.68:64889/KUCHHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Canal+ Premium (1080p)
+http://178.219.128.68:64889/CANAHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Canal+ Seriale (1080p)
+http://178.219.128.68:64888/CANASERIHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Canal+ Sport (1080p)
+http://178.219.128.68:64888/CANASPORHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Canal+ Sport (1080p)
+http://178.219.128.68:64889/CANASPORHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Canal+ Sport 2 (1080p)
+http://178.219.128.68:64888/CANASPOR2HD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Cartoon Network (1080p)
+http://109.233.89.166/Cartoon_Network_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Cartoon Network (1080p)
+http://178.219.128.68:64888/CARTNETWHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Cinemax (1080p)
+http://109.233.89.166/CINEMAX_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Cinemax 2 (1080p)
+http://109.233.89.166/CINEMAX_2_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Comedy Central (1080p)
+http://109.233.89.166/Comedy_Central_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Comedy Central (1080p)
+http://178.219.128.68:64889/COMECENTHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",DTX (1080p)
+http://109.233.89.166/DTX_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Discovery Life HD (1080p)
+http://178.219.128.68:64888/DISCLIFEHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Discovery Life HD (1080p)
+http://109.233.89.166/Discovery_Life_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Kids;Undefined",Disney Channel
+http://109.233.89.170/Disney_Channel/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Channel (1080p)
+http://178.219.128.68:64888/DISNCHAN?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Channel (1080p)
+http://109.233.89.166/Disney_Channel/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Kids;Undefined",Disney Junior
+http://109.233.89.166/Disney_Junior/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior (1080p)
+http://178.219.128.68:64888/DISNJUNI?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior (576p)
+http://109.233.89.166/Disney_Junior/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney XD (576p)
+http://178.219.128.68:64888/DISNXD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Echo24 (720p)
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 1 (1080p)
+https://windnew.iosplayer.ru/wind/premium71/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 1 (1080p)
+http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sport",Eleven Sports 1 (2160p)
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 2 (1080p)
+https://windnew.iosplayer.ru/wind/premium72/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 2 (1080p)
+http://109.233.89.170/Eleven_Sports_2_HD/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 2 (1080p)
+http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 3 (1080p)
+https://ddy6new.iosplayer.ru/ddy6/premium428/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 3 (1080p)
+http://109.233.89.170/Eleven_Sports_3_HD/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 3 (1080p)
+http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 4 (1080p)
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/e9cF1_Eska.png/Eska.png" group-title="Music",Eska Hity na Czasie (1080i)
+https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/3hrxvdG.png" group-title="Music",Eska Rock Dobrze Rockuje (1080i)
+https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Eska Rock TV (1080p)
+http://178.219.128.68:64889/ESKAROCKTV?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Eska TV (1080p)
+http://178.219.128.68:64888/ESKATVHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Eska TV (1080p)
+http://109.233.89.166/ESKA_TV_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Eska TV Extra (1080p)
+http://178.219.128.68:64888/ESKATVEXTRHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FilmBox Extra (1080p)
+http://178.219.128.68:64888/FILMEXTRHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FilmBox Premium HD (1080p)
+http://178.219.128.68:64888/FILMPREMHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fokus TV (1080p)
+http://178.219.128.68:64889/FOKUTV?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fox (1080p)
+http://109.233.89.166/FOX_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fox Comedy (1080p)
+http://178.219.128.68:64889/FOXCOMEHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fox [Geo-blocked]
+http://178.219.128.68:64889/FOXHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO (1080p)
+http://178.219.128.68:64888/HBOHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO (1080p)
+http://109.233.89.166/HBO_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO 2 (1080p)
+http://178.219.128.68:64888/HBO2HD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO 2 (1080p)
+http://109.233.89.166/HBO_2_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO 3 HD (1080p)
+http://178.219.128.68:64888/HBO3HD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO 3 HD (1080p)
+http://109.233.89.166/HBO_3_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/JgA8I_HiDance.png/HiDance.png" group-title="Music",HiDance (1080i)
+https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/k6LS5_HiMusic.png/HiMusic.png" group-title="Music",HiMusic (1080i)
+https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",History (1080p)
+http://109.233.89.166/History_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",History 2 (1080p)
+http://109.233.89.166/History_2_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Home TV (1080p)
+http://178.219.128.68:64889/HOMETV?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Home TV (1080p)
+http://109.233.89.166/TVR_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Kino Polska (1080p)
+http://178.219.128.68:64888/KINOPOLSHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Kino Polska (1080p)
+http://109.233.89.166/Kino_Polska_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Kino TV (1080p)
+http://178.219.128.68:64888/KINOTV?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",MOTORVISION.TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",MTV (1080p)
+http://178.219.128.68:64888/MTVHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",MTV (1080p)
+http://109.233.89.166/MTV_Polska_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Metro (1080p)
+http://178.219.128.68:64889/METRHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Metro (1080p)
+http://109.233.89.166/Metro_TV_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/1AdUC53.png" group-title="Kids",MiniMini+ (1080p)
+http://178.219.128.68:64889/MINIHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Motorsport.tv
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/HCnS1VT.png" group-title="Lifestyle",Murator TV (1080i)
+https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Music",Music Box Polska (1080p) [Geo-blocked]
+https://vs2131.vcdn.biz/7c9ec24eb8edee7c3d3b96d9f3135f48_megogo/live/hls/b/700_2490_4000/u_sid/0/o/156751011/rsid/75909724-61e8-406f-9c58-f0491247f2a6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid750262562196381400-b4000000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",National Geographic (1080p)
+http://178.219.128.68:64889/NATIGEOGHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",National Geographic Wild (1080p)
+http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8?checkedby:iptvcat.com
